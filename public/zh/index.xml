@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>金兰</title>
+    <link>http://localhost:1313/zh/</link>
+    <description>Recent content on 金兰 created by </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客标题</title>
+      <link>http://localhost:1313/zh/blog/second/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh/blog/second/</guid>
+      <description>&lt;p&gt;这是摘要&lt;/p&gt;
+&lt;p&gt;这是内容
+hello,world&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>博客标题</title>
+      <link>http://localhost:1313/zh/blog/third/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zh/blog/third/</guid>
+      <description>&lt;p&gt;这是摘要&lt;/p&gt;
+&lt;p&gt;这是内容&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
